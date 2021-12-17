@@ -1,0 +1,12 @@
+nothing to see here
+<<<<<<< HEAD
+ public class Person{
+	private int _personId;
+}
+=======
+public class Person{
+  private String _name;
+  private String _lastname;
+}
+a
+>>>>>>> 78fab22ed52520de804693bcf3b4953f5862313a

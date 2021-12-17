@@ -1,4 +1,6 @@
 nothing to see here
- public class Person{
-	private int _personId;
+public class Person{	
+  private int _personId;
+  private String _name;
+  private String _lastname;
 }
